@@ -1,0 +1,87 @@
+[
+  {
+    "id": "c001",
+    "keywords": ["herbal tea", "covid", "cure"],
+    "verdict": "Likely False",
+    "sources": [
+      {"title": "WHO Myth Busters", "url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters"},
+      {"title": "PubMed Review", "url": "https://pubmed.ncbi.nlm.nih.gov/?term=herbal+tea+covid"}
+    ]
+  },
+  {
+    "id": "c002",
+    "keywords": ["vitamin c", "covid", "prevention"],
+    "verdict": "Needs Context",
+    "sources": [
+      {"title": "NIH Vitamin C Factsheet", "url": "https://ods.od.nih.gov/factsheets/VitaminC-HealthProfessional/"},
+      {"title": "Harvard Health", "url": "https://www.health.harvard.edu/diseases-and-conditions/covid-19-basics"}
+    ]
+  },
+  {
+    "id": "c003",
+    "keywords": ["mask", "viral spread", "reduce"],
+    "verdict": "Likely True",
+    "sources": [
+      {"title": "CDC Masks", "url": "https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/types-of-masks.html"},
+      {"title": "Science Journal", "url": "https://www.science.org/doi/10.1126/science.abg6296"}
+    ]
+  },
+  {
+    "id": "c004",
+    "keywords": ["vaccine", "microchip"],
+    "verdict": "Likely False",
+    "sources": [
+      {"title": "Reuters Fact Check", "url": "https://www.reuters.com/article/factcheck-microchip-vaccine/fact-check-covid-19-vaccines-do-not-contain-microchips-idUSL1N2M70MW"},
+      {"title": "BBC Reality Check", "url": "https://www.bbc.com/news/52847648"}
+    ]
+  },
+  {
+    "id": "c005",
+    "keywords": ["5g", "vaccine", "signal"],
+    "verdict": "False",
+    "sources": [
+      {"title": "WHO Myth Busters", "url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters"},
+      {"title": "Reuters Fact Check", "url": "https://www.reuters.com/"}
+    ]
+  },
+  {
+    "id": "c006",
+    "keywords": ["garlic", "covid", "cure"],
+    "verdict": "Likely False",
+    "sources": [
+      {"title": "WHO COVID Advice", "url": "https://www.who.int/"}
+    ]
+  },
+  {
+    "id": "c007",
+    "keywords": ["hydroxychloroquine", "covid", "treatment"],
+    "verdict": "Needs Context",
+    "sources": [
+      {"title": "NIH COVID-19 Treatment Guidelines", "url": "https://www.covid19treatmentguidelines.nih.gov/"}
+    ]
+  },
+  {
+    "id": "c008",
+    "keywords": ["bleach", "drink", "cure"],
+    "verdict": "False",
+    "sources": [
+      {"title": "CDC Poisoning Advisory", "url": "https://www.cdc.gov/"}
+    ]
+  },
+  {
+    "id": "c009",
+    "keywords": ["ibuprofen", "covid", "worse"],
+    "verdict": "Needs Context",
+    "sources": [
+      {"title": "WHO Q&A", "url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub"}
+    ]
+  },
+  {
+    "id": "c010",
+    "keywords": ["sunlight", "covid", "kill"],
+    "verdict": "False",
+    "sources": [
+      {"title": "WHO Myth Busters", "url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters"}
+    ]
+  }
+]

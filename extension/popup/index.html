@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>InfoGuard Verdict</title>
+    <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+    <main class="popup">
+        <header class="popup__header">
+            <div class="popup__badge">Potential Misinformation</div>
+            <h1 class="popup__title">Claim Review</h1>
+            <p class="popup__subtitle">Real-time verdict backed by trusted sources.</p>
+        </header>
+
+        <section class="popup__section popup__verdict" id="verdictSection">
+            <div class="verdict__summary">
+                <h2 class="verdict__label">Verdict</h2>
+                <p class="verdict__value" id="verdictValue">Loading…</p>
+            </div>
+            <div class="verdict__confidence">
+                <div class="confidence__header">
+                    <span>Confidence</span>
+                    <span id="confidencePercent">0%</span>
+                </div>
+                <div class="confidence__bar">
+                    <div class="confidence__fill" id="confidenceFill" style="width: 0%"></div>
+                </div>
+            </div>
+        </section>
+
+        <section class="popup__section">
+            <h2 class="section__title">Snippet</h2>
+            <p class="section__body" id="snippetText">Select a highlight to view context.</p>
+        </section>
+
+        <section class="popup__section">
+            <h2 class="section__title">Explanation</h2>
+            <p class="section__body" id="explanationText">Loading…</p>
+        </section>
+
+        <section class="popup__section">
+            <h2 class="section__title">Sources</h2>
+            <ul class="source-list" id="sourceList"></ul>
+        </section>
+
+        <footer class="popup__footer">
+            <div class="action-buttons">
+                <button class="btn btn--primary" id="copyReplyBtn">Copy Reply</button>
+                <button class="btn" id="saveBtn">Save</button>
+                <div class="feedback-buttons">
+                    <button class="btn btn--icon" id="feedbackPositive" aria-label="Positive Feedback">👍</button>
+                    <button class="btn btn--icon" id="feedbackNegative" aria-label="Negative Feedback">👎</button>
+                </div>
+            </div>
+            
+            <div class="settings-row">
+                <div class="language-toggle">
+                    <span class="toggle-label">Language:</span>
+                    <div class="toggle-buttons">
+                        <button class="toggle-btn toggle-btn--active" data-lang="en">EN</button>
+                        <button class="toggle-btn" data-lang="hi">HI</button>
+                        <button class="toggle-btn" data-lang="ta">TA</button>
+                    </div>
+                </div>
+                
+                <div class="privacy-toggle">
+                    <span class="toggle-label">Privacy:</span>
+                    <label class="switch">
+                        <input type="checkbox" id="privacyToggle">
+                        <span class="slider"></span>
+                    </label>
+                    <span class="privacy-label" id="privacyLabel">Cloud</span>
+                </div>
+            </div>
+        </footer>
+        
+        <div class="shimmer-overlay" id="shimmerOverlay">
+            <div class="shimmer-content">
+                <div class="shimmer-line"></div>
+                <div class="shimmer-line"></div>
+                <div class="shimmer-line"></div>
+            </div>
+        </div>
+    </main>
+
+    <script type="module" src="script.js"></script>
+</body>
+
+</html>

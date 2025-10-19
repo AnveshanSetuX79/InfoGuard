@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "checkJs": true,
+    "target": "ES2020",
+    "module": "ES2020",
+    "moduleResolution": "Node",
+    "allowJs": true,
+    "strict": false,
+    "types": [],
+    "typeRoots": [
+      "./extension/types",
+      "./node_modules/@types"
+    ]
+  },
+  "include": [
+    "extension/**/*.js",
+    "extension/**/*.d.ts"
+  ]
+}

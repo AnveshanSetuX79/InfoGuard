@@ -1,0 +1,238 @@
+{
+  "false": {
+    "en": {
+      "verdict": "Likely False",
+      "confidence": 0.78,
+      "explanation": "No scientific evidence supports that herbal tea can cure COVID-19.",
+      "sources": [
+        {
+          "title": "World Health Organization",
+          "url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters",
+          "excerpt": "There is no scientific evidence that herbal tea cures COVID-19."
+        },
+        {
+          "title": "PubMed Research",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/search/?term=herbal+tea+covid",
+          "excerpt": "Clinical trials have not demonstrated herbal tea as an effective treatment for COVID-19."
+        }
+      ],
+      "suggested_reply": "Just checked this claim about herbal tea curing COVID. According to WHO and medical research, there's no scientific evidence supporting this. Always best to follow official medical advice!",
+      "id": "false_en_001"
+    },
+    "hi": {
+      "verdict": "संभवतः गलत",
+      "confidence": 0.78,
+      "explanation": "कोई वैज्ञानिक प्रमाण नहीं है कि हर्बल चाय COVID-19 को ठीक कर सकती है।",
+      "sources": [
+        {
+          "title": "विश्व स्वास्थ्य संगठन",
+          "url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters",
+          "excerpt": "कोई वैज्ञानिक प्रमाण नहीं है कि हर्बल चाय COVID-19 को ठीक करती है।"
+        },
+        {
+          "title": "PubMed अनुसंधान",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/search/?term=herbal+tea+covid",
+          "excerpt": "नैदानिक परीक्षणों ने हर्बल चाय को COVID-19 के लिए प्रभावी उपचार के रूप में प्रदर्शित नहीं किया है।"
+        }
+      ],
+      "suggested_reply": "मैंने हर्बल चाय से COVID ठीक होने के दावे की जांच की। WHO और चिकित्सा अनुसंधान के अनुसार, इसका कोई वैज्ञानिक प्रमाण नहीं है। हमेशा आधिकारिक चिकित्सा सलाह का पालन करना सबसे अच्छा है!",
+      "id": "false_hi_001"
+    },
+    "ta": {
+      "verdict": "பொய்யாக இருக்கலாம்",
+      "confidence": 0.78,
+      "explanation": "மூலிகை தேநீர் COVID-19 ஐ குணப்படுத்தும் என்பதற்கு அறிவியல் ஆதாரம் எதுவும் இல்லை.",
+      "sources": [
+        {
+          "title": "உலக சுகாதார நிறுவனம்",
+          "url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters",
+          "excerpt": "மூலிகை தேநீர் COVID-19 ஐ குணப்படுத்துகிறது என்பதற்கு அறிவியல் ஆதாரம் எதுவும் இல்லை."
+        },
+        {
+          "title": "PubMed ஆராய்ச்சி",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/search/?term=herbal+tea+covid",
+          "excerpt": "மருத்துவ சோதனைகள் COVID-19 க்கு மூலிகை தேநீரை ஒரு பயனுள்ள சிகிச்சையாக நிரூபிக்கவில்லை."
+        }
+      ],
+      "suggested_reply": "மூலிகை தேநீர் COVID ஐ குணப்படுத்தும் என்ற உரிமைகோரலை சரிபார்த்தேன். WHO மற்றும் மருத்துவ ஆராய்ச்சியின்படி, இதற்கு அறிவியல் ஆதாரம் எதுவும் இல்லை. அதிகாரப்பூர்வ மருத்துவ ஆலோசனையை பின்பற்றுவதே சிறந்தது!",
+      "id": "false_ta_001"
+    }
+  },
+  "partly_true": {
+    "en": {
+      "verdict": "Needs Context",
+      "confidence": 0.55,
+      "explanation": "Vitamin C may support immune function but has not been proven to significantly reduce COVID-19 risk.",
+      "sources": [
+        {
+          "title": "National Institutes of Health",
+          "url": "https://ods.od.nih.gov/factsheets/VitaminC-HealthProfessional/",
+          "excerpt": "Vitamin C is involved in immune function, but evidence for COVID-19 prevention is limited."
+        },
+        {
+          "title": "Harvard Health",
+          "url": "https://www.health.harvard.edu/diseases-and-conditions/covid-19-basics",
+          "excerpt": "While vitamins support overall health, they are not proven treatments for COVID-19."
+        }
+      ],
+      "suggested_reply": "About Vitamin C and COVID: While it does support immune health generally, research doesn't show it significantly reduces COVID risk specifically. Best to follow comprehensive health guidelines rather than relying on supplements alone.",
+      "id": "partly_true_en_001"
+    },
+    "hi": {
+      "verdict": "संदर्भ की आवश्यकता है",
+      "confidence": 0.55,
+      "explanation": "विटामिन सी प्रतिरक्षा प्रणाली का समर्थन कर सकता है लेकिन COVID-19 के जोखिम को कम करने के लिए प्रमाणित नहीं है।",
+      "sources": [
+        {
+          "title": "राष्ट्रीय स्वास्थ्य संस्थान",
+          "url": "https://ods.od.nih.gov/factsheets/VitaminC-HealthProfessional/",
+          "excerpt": "विटामिन सी प्रतिरक्षा प्रणाली में शामिल है, लेकिन COVID-19 की रोकथाम के लिए सबूत सीमित हैं।"
+        },
+        {
+          "title": "हार्वर्ड हेल्थ",
+          "url": "https://www.health.harvard.edu/diseases-and-conditions/covid-19-basics",
+          "excerpt": "जबकि विटामिन समग्र स्वास्थ्य का समर्थन करते हैं, वे COVID-19 के लिए प्रमाणित उपचार नहीं हैं।"
+        }
+      ],
+      "suggested_reply": "विटामिन सी और COVID के बारे में: हालांकि यह सामान्य रूप से प्रतिरक्षा स्वास्थ्य का समर्थन करता है, अनुसंधान से पता नहीं चलता है कि यह विशेष रूप से COVID के जोखिम को कम करता है। केवल सप्लीमेंट्स पर निर्भर रहने के बजाय व्यापक स्वास्थ्य दिशानिर्देशों का पालन करना सबसे अच्छा है।",
+      "id": "partly_true_hi_001"
+    },
+    "ta": {
+      "verdict": "சூழல் தேவை",
+      "confidence": 0.55,
+      "explanation": "வைட்டமின் சி நோயெதிர்ப்பு செயல்பாட்டை ஆதரிக்கலாம் ஆனால் COVID-19 அபாயத்தை குறிப்பிடத்தக்க அளவு குறைக்கும் என நிரூபிக்கப்படவில்லை.",
+      "sources": [
+        {
+          "title": "தேசிய சுகாதார நிறுவனங்கள்",
+          "url": "https://ods.od.nih.gov/factsheets/VitaminC-HealthProfessional/",
+          "excerpt": "வைட்டமின் சி நோயெதிர்ப்பு செயல்பாட்டில் ஈடுபட்டுள்ளது, ஆனால் COVID-19 தடுப்புக்கான ஆதாரங்கள் வரையறுக்கப்பட்டுள்ளன."
+        },
+        {
+          "title": "ஹார்வர்ட் ஹெல்த்",
+          "url": "https://www.health.harvard.edu/diseases-and-conditions/covid-19-basics",
+          "excerpt": "வைட்டமின்கள் ஒட்டுமொத்த ஆரோக்கியத்தை ஆதரிக்கும் போது, அவை COVID-19 க்கான நிரூபிக்கப்பட்ட சிகிச்சைகள் அல்ல."
+        }
+      ],
+      "suggested_reply": "வைட்டமின் சி மற்றும் COVID பற்றி: இது பொதுவாக நோயெதிர்ப்பு ஆரோக்கியத்தை ஆதரிக்கிறது, ஆனால் குறிப்பாக COVID அபாயத்தை குறிப்பிடத்தக்க அளவு குறைக்கிறது என்று ஆராய்ச்சி காட்டவில்லை. துணை உணவுகளை மட்டும் நம்பாமல் விரிவான ஆரோக்கிய வழிகாட்டுதல்களைப் பின்பற்றுவதே சிறந்தது.",
+      "id": "partly_true_ta_001"
+    }
+  },
+  "true": {
+    "en": {
+      "verdict": "Likely True",
+      "confidence": 0.88,
+      "explanation": "Scientific studies consistently show that properly worn masks reduce the transmission of respiratory viruses.",
+      "sources": [
+        {
+          "title": "Centers for Disease Control and Prevention",
+          "url": "https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/types-of-masks.html",
+          "excerpt": "Masks are effective at reducing the spread of COVID-19 when worn consistently and correctly."
+        },
+        {
+          "title": "Science Journal",
+          "url": "https://www.science.org/doi/10.1126/science.abg6296",
+          "excerpt": "Multiple studies confirm that masks reduce the transmission of respiratory droplets that can carry viruses."
+        }
+      ],
+      "suggested_reply": "Regarding masks reducing viral spread: This is supported by strong scientific evidence from the CDC and multiple studies. Properly worn masks do help reduce transmission of respiratory viruses including COVID-19.",
+      "id": "true_en_001"
+    },
+    "hi": {
+      "verdict": "संभवतः सत्य",
+      "confidence": 0.88,
+      "explanation": "वैज्ञानिक अध्ययन लगातार दिखाते हैं कि सही तरीके से पहने गए मास्क श्वसन वायरस के संचरण को कम करते हैं।",
+      "sources": [
+        {
+          "title": "रोग नियंत्रण और रोकथाम केंद्र",
+          "url": "https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/types-of-masks.html",
+          "excerpt": "मास्क लगातार और सही तरीके से पहनने पर COVID-19 के प्रसार को कम करने में प्रभावी होते हैं।"
+        },
+        {
+          "title": "साइंस जर्नल",
+          "url": "https://www.science.org/doi/10.1126/science.abg6296",
+          "excerpt": "कई अध्ययन पुष्टि करते हैं कि मास्क श्वसन बूंदों के संचरण को कम करते हैं जो वायरस ले जा सकते हैं।"
+        }
+      ],
+      "suggested_reply": "मास्क वायरल प्रसार को कम करने के बारे में: यह CDC और कई अध्ययनों से मजबूत वैज्ञानिक प्रमाणों द्वारा समर्थित है। सही तरीके से पहने गए मास्क COVID-19 सहित श्वसन वायरस के संचरण को कम करने में मदद करते हैं।",
+      "id": "true_hi_001"
+    },
+    "ta": {
+      "verdict": "உண்மையாக இருக்கலாம்",
+      "confidence": 0.88,
+      "explanation": "சரியாக அணியப்பட்ட முகக்கவசங்கள் சுவாச வைரஸ்களின் பரவலைக் குறைக்கின்றன என்பதை அறிவியல் ஆய்வுகள் தொடர்ந்து காட்டுகின்றன.",
+      "sources": [
+        {
+          "title": "நோய் கட்டுப்பாடு மற்றும் தடுப்பு மையங்கள்",
+          "url": "https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/types-of-masks.html",
+          "excerpt": "முகக்கவசங்கள் தொடர்ந்து மற்றும் சரியாக அணியப்படும்போது COVID-19 பரவுவதைக் குறைப்பதில் பயனுள்ளதாக உள்ளன."
+        },
+        {
+          "title": "சயின்ஸ் ஜர்னல்",
+          "url": "https://www.science.org/doi/10.1126/science.abg6296",
+          "excerpt": "முகக்கவசங்கள் வைரஸ்களை சுமக்கக்கூடிய சுவாச துளிகளின் பரிமாற்றத்தைக் குறைக்கின்றன என்பதை பல ஆய்வுகள் உறுதிப்படுத்துகின்றன."
+        }
+      ],
+      "suggested_reply": "வைரஸ் பரவலைக் குறைக்கும் முகக்கவசங்கள் குறித்து: இது CDC மற்றும் பல ஆய்வுகளில் இருந்து வலுவான அறிவியல் ஆதாரங்களால் ஆதரிக்கப்படுகிறது. சரியாக அணியப்பட்ட முகக்கவசங்கள் COVID-19 உட்பட சுவாச வைரஸ்களின் பரிமாற்றத்தைக் குறைக்க உதவுகின்றன.",
+      "id": "true_ta_001"
+    }
+  },
+  "meme_image": {
+    "en": {
+      "verdict": "Likely False",
+      "confidence": 0.92,
+      "explanation": "COVID-19 vaccines do not contain microchips. This claim has been thoroughly debunked by medical experts.",
+      "sources": [
+        {
+          "title": "Reuters Fact Check",
+          "url": "https://www.reuters.com/article/factcheck-microchip-vaccine/fact-check-covid-19-vaccines-do-not-contain-microchips-idUSL1N2M70MW",
+          "excerpt": "COVID-19 vaccines do not contain microchips or any nanotechnology for tracking people."
+        },
+        {
+          "title": "BBC Reality Check",
+          "url": "https://www.bbc.com/news/52847648",
+          "excerpt": "The claim that Bill Gates is planning to use vaccines to implant microchips in people is false."
+        }
+      ],
+      "suggested_reply": "Just fact-checked this vaccine microchip claim. Multiple fact-checking organizations like Reuters have thoroughly debunked it. The COVID vaccines simply don't contain the technology needed for tracking, and it wouldn't even be physically possible given the needle size.",
+      "id": "meme_image_en_001"
+    },
+    "hi": {
+      "verdict": "संभवतः गलत",
+      "confidence": 0.92,
+      "explanation": "COVID-19 वैक्सीन में माइक्रोचिप नहीं होते हैं। इस दावे को चिकित्सा विशेषज्ञों द्वारा पूरी तरह से खारिज कर दिया गया है।",
+      "sources": [
+        {
+          "title": "रॉयटर्स फैक्ट चेक",
+          "url": "https://www.reuters.com/article/factcheck-microchip-vaccine/fact-check-covid-19-vaccines-do-not-contain-microchips-idUSL1N2M70MW",
+          "excerpt": "COVID-19 वैक्सीन में लोगों को ट्रैक करने के लिए माइक्रोचिप या कोई नैनोटेक्नोलॉजी नहीं है।"
+        },
+        {
+          "title": "बीबीसी रियलिटी चेक",
+          "url": "https://www.bbc.com/news/52847648",
+          "excerpt": "यह दावा कि बिल गेट्स वैक्सीन के माध्यम से लोगों में माइक्रोचिप लगाने की योजना बना रहे हैं, गलत है।"
+        }
+      ],
+      "suggested_reply": "मैंने वैक्सीन माइक्रोचिप के दावे की जांच की। रॉयटर्स जैसे कई तथ्य-जांच संगठनों ने इसे पूरी तरह से खारिज कर दिया है। COVID वैक्सीन में ट्रैकिंग के लिए आवश्यक तकनीक नहीं है, और सुई के आकार को देखते हुए यह शारीरिक रूप से भी संभव नहीं होगा।",
+      "id": "meme_image_hi_001"
+    },
+    "ta": {
+      "verdict": "பொய்யாக இருக்கலாம்",
+      "confidence": 0.92,
+      "explanation": "COVID-19 தடுப்பூசிகளில் நுண்சில்லுகள் இல்லை. இந்த உரிமைகோரல் மருத்துவ நிபுணர்களால் முற்றிலுமாக மறுக்கப்பட்டுள்ளது.",
+      "sources": [
+        {
+          "title": "ராய்ட்டர்ஸ் உண்மை சரிபார்ப்பு",
+          "url": "https://www.reuters.com/article/factcheck-microchip-vaccine/fact-check-covid-19-vaccines-do-not-contain-microchips-idUSL1N2M70MW",
+          "excerpt": "COVID-19 தடுப்பூசிகளில் மக்களைக் கண்காணிப்பதற்கான நுண்சில்லுகள் அல்லது எந்த நானோ தொழில்நுட்பமும் இல்லை."
+        },
+        {
+          "title": "பிபிசி ரியாலிட்டி செக்",
+          "url": "https://www.bbc.com/news/52847648",
+          "excerpt": "பில் கேட்ஸ் தடுப்பூசிகளைப் பயன்படுத்தி மக்களில் நுண்சில்லுகளை பொருத்த திட்டமிடுகிறார் என்ற கூற்று தவறானது."
+        }
+      ],
+      "suggested_reply": "தடுப்பூசி நுண்சில்லு உரிமைகோரலை உண்மை சரிபார்த்தேன். ராய்ட்டர்ஸ் போன்ற பல உண்மை சரிபார்ப்பு அமைப்புகள் இதை முழுமையாக மறுத்துள்ளன. COVID தடுப்பூசிகளில் கண்காணிப்புக்குத் தேவையான தொழில்நுட்பம் இல்லை, மேலும் ஊசியின் அளவைக் கருத்தில் கொண்டால் இது உடல் ரீதியாக சாத்தியமாகாது.",
+      "id": "meme_image_ta_001"
+    }
+  }
+}
